@@ -4,6 +4,14 @@ body {
   font-family: monospace;
 }
 
+a {
+  color: #0088ff;
+}
+
+a:visited {
+  color: #8888ff;
+}
+
 .terminal {
   padding: 20px;
 }

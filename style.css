@@ -16,14 +16,6 @@ a:visited {
   padding: 20px;
 }
 
-.input-line {
-  display: flex;
-}
-
-.prompt {
-  margin-right: 8px;
-}
-
 input {
   background: transparent;
   border: none;

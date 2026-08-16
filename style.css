@@ -1,0 +1,22 @@
+body {
+  font-family: "JetBrains Mono", monospace;
+  background-color: #181a1b;
+  color: #e8e6e3;
+}
+
+a {
+  color: #3391ff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+::selection {
+  background-color: #cc5500;
+}
+
+::-moz-selection {
+  background-color: #cc5500;
+}

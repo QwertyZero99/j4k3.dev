@@ -14,6 +14,7 @@ a:hover {
 }
 
 /* Home links */
+/*
 a.home {
   color: inherit;
   text-decoration: none;
@@ -22,6 +23,7 @@ a.home {
 a.home:hover {
   text-decoration: none;
 }
+*/
 
 ::selection {
   background-color: #cc5500;
